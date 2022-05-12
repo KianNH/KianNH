@@ -1,5 +1,3 @@
-Blog: https://kian.org.uk
-
 ```yaml
 %KianNH
 ---
