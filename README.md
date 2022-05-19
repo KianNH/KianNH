@@ -1,7 +1,7 @@
 ```yaml
 %KianNH
 ---
-Occupation: Junior DevOps Engineer
+Occupation: DevOps Engineer
 
 Social:
   - Email: kian@kian.org.uk
